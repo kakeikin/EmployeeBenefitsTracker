@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EmployeeBenefitsTracker.Api", "EmployeeBenefitsTracker.Api\EmployeeBenefitsTracker.Api.csproj", "{FEF17289-08E3-4429-87BB-EAC15FD703F5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EmployeeBenefitsTracker.Tests", "EmployeeBenefitsTracker.Tests\EmployeeBenefitsTracker.Tests.csproj", "{DACAB78D-93B7-4132-90B7-6D676DD91CDD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FEF17289-08E3-4429-87BB-EAC15FD703F5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FEF17289-08E3-4429-87BB-EAC15FD703F5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FEF17289-08E3-4429-87BB-EAC15FD703F5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FEF17289-08E3-4429-87BB-EAC15FD703F5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DACAB78D-93B7-4132-90B7-6D676DD91CDD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DACAB78D-93B7-4132-90B7-6D676DD91CDD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DACAB78D-93B7-4132-90B7-6D676DD91CDD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DACAB78D-93B7-4132-90B7-6D676DD91CDD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

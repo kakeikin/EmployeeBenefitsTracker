@@ -1,0 +1,6 @@
+@EmployeeBenefitsTracker.Api_HostAddress = http://localhost:5118
+
+GET {{EmployeeBenefitsTracker.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
